@@ -1,0 +1,9 @@
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Core\bin\Debug\netstandard2.0\AlbumApp.Core.deps.json
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Core\bin\Debug\netstandard2.0\AlbumApp.Core.dll
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Core\obj\Debug\netstandard2.0\AlbumApp.Core.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Core\obj\Debug\netstandard2.0\AlbumApp.Core.AssemblyInfo.cs
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Core\bin\Debug\netstandard2.0\AlbumApp.Core.pdb
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Core\obj\Debug\netstandard2.0\AlbumApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Core\obj\Debug\netstandard2.0\AlbumApp.Core.dll
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Core\obj\Debug\netstandard2.0\AlbumApp.Core.pdb
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Core\obj\Debug\netstandard2.0\AlbumApp.Core.csprojAssemblyReference.cache

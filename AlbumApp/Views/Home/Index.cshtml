@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Album App";
+}
+
+@using (Html.BeginForm("ViewAlbum", "Home", FormMethod.Post))
+{
+    <div class="text-center">
+        <label>Album</label>
+        @Html.DropDownList("Id", new SelectList(ViewBag.albums, "Id", "Title"))
+    <button type="submit">Visualizar Album</button>
+    </div>
+
+}

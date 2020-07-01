@@ -1,0 +1,12 @@
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\bin\Debug\netstandard2.0\AlbumApp.Core.dll
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\obj\Debug\netstandard2.0\AlbumApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\obj\Debug\netstandard2.0\AlbumApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\obj\Debug\netstandard2.0\AlbumApp.Infrastructure.AssemblyInfo.cs
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\bin\Debug\netstandard2.0\AlbumApp.Infrastructure.deps.json
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\bin\Debug\netstandard2.0\AlbumApp.Infrastructure.dll
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\bin\Debug\netstandard2.0\AlbumApp.Infrastructure.pdb
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\bin\Debug\netstandard2.0\AlbumApp.Core.pdb
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\obj\Debug\netstandard2.0\AlbumApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\obj\Debug\netstandard2.0\AlbumApp.Infrastructure.csproj.CopyComplete
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\obj\Debug\netstandard2.0\AlbumApp.Infrastructure.dll
+C:\Users\David\source\repos\AlbumApp\AlbumApp.Infrastructure\obj\Debug\netstandard2.0\AlbumApp.Infrastructure.pdb

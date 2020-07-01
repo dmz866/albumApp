@@ -1,0 +1,42 @@
+﻿
+@{
+    ViewData["Title"] = "Photos";
+}
+
+
+<script>
+    function viewComments(postId) {
+        console.log(postId);
+        $("#com1").load('@Url.Action("Comments", "Photo")', postId);
+    }
+</script>
+
+
+<h1>Photos</h1>
+<table id="photosTb">
+    <thead>
+    <th>Id</th>
+    <th>Title</th>
+    <th></th>
+    <th></th>
+    </thead>
+    @foreach (var item in ViewBag.photos)
+    {
+        <tr>
+            <td>
+                @item.Id
+            </td>
+            <td>
+                @item.Title
+            </td>
+            <td>
+                <img src="@item.ThumbnailUrl" />
+            </td>
+            <td>
+                <button onclick="viewComments(@item.Id)">Ver Comentarios</button>
+            </td>
+        </tr>
+    }
+</table>
+<div id="com1">
+</div>
